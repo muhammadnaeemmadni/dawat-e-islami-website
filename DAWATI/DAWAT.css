@@ -1,0 +1,262 @@
+li
+{
+    display: inline;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: white;
+    position: relative;
+    left: 85px;
+}
+ul
+{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(51, 66, 51);
+    margin: 0px;
+}
+.A:hover
+{
+background-color:lightgreen;
+border-radius: 4px;
+color: turquoise;
+}
+.B
+{
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.C:hover
+{
+    background-color:rgba(1, 17, 1, 0.753);
+    border-radius: 4px;
+    color: whitesmoke;
+}
+.C
+{
+    color:palevioletred;
+    margin-right:30px;
+}
+.D:hover
+{
+    background-color: gold;
+    color: whitesmoke;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.D
+{
+   color: black; 
+   float: right;
+   /* border: 2px black solid; */
+   margin-right: 80px;
+   margin-left: -70px;
+}
+.E
+{
+    margin-left: -35px;
+    color: black;
+}
+.F
+{
+    border-bottom:red solid 2px;
+    width: 50%;
+    margin:left 70px;
+    color: white
+}
+
+.I
+{
+    border: 1px solid red;
+    width: 300px;
+    text-align: center;
+    background-color: red;
+    margin-bottom: 0px;
+    /* position: relative;
+    right: -5%; */
+}
+
+.H
+{
+    border: 1px solid green;
+    width: 400px;
+    text-align: center;
+    background-color: green;
+    margin-bottom: 0px;   
+    /* margin-left: 40px;  */
+}
+.G
+{
+    border-bottom:green solid 2px;
+    width: 45%;
+    float:right ;
+    margin-top: -62px;
+    color: white
+}
+.J
+{
+    position: relative;
+    top: -50px;
+    margin-top: 12%;
+    margin-left: 5%;
+}
+.K
+{
+    float: right;
+    margin-top: -37.8%;
+    margin-right: 58%;
+}
+.p1
+{
+    float: right;
+    position: relative;
+    right: 40%;
+    margin-top: -36%;
+    margin-right: 5%;
+}
+.h1
+{
+    float: right;
+    position: relative;
+    right: 40%;
+    margin-top: -38%;
+    margin-right: 5.8%;
+}
+.L
+{
+    float: right;
+    margin-top: -28.8%;
+    margin-right: 58%;
+    height: 130px;
+}
+.p2
+{
+    float: right;
+    position: relative;
+    right: 40%;
+    margin-top: -26.5%;
+    margin-right: 4%;
+}
+.h2
+{
+    float: right;
+    position: relative;
+    right: 43%;
+    margin-top: -29%;
+    margin-right: 4%;
+}
+.M
+{
+    float: right;
+    margin-top: -17.8%;
+    margin-right: 58%;
+    height: 130px;
+}
+.p3
+{
+    float: right;
+    position: relative;
+    right: 40%;
+    margin-top: -17%;
+    margin-right: 5%;
+}
+.h3
+{
+    float: right;
+    position: relative;
+    right: 40%;
+    margin-top: -18%;
+    margin-right: 6%; 
+}
+.N
+{
+    float: right;
+    margin-top: -7.8%;
+    margin-right: 58%;
+    /* height: 130px; */
+}
+.p4
+{
+    float: right;
+    position: relative;
+    right: 40%;
+    margin-top: -6%;
+    margin-right: 6%;  
+}
+.h4
+{
+    float: right;
+    position: relative;
+    right: 40%;
+    margin-top: -8%;
+    margin-right: 6%;     
+}
+.O
+{
+    float: right;
+    margin-top: -38%;
+    margin-right: 10%;
+}
+.p5
+{
+    float: right;
+    position: relative;
+    margin-top: -24%;
+    margin-right: 10%;  
+}
+.h5
+{
+    float: right;
+    position: relative;
+    margin-top: -24%;
+    margin-right: 10%;    
+}
+.P
+{
+    float: right;
+    margin-top: -15.8%;
+    margin-right:23.5% ;
+}
+.p6
+{
+    float: right;
+    position: relative;
+    margin-top: -14%;
+    margin-right: 9%;  
+}
+.h6
+{
+    float: right;
+    position: relative;
+    margin-top: -14%;
+    margin-right: 9%;  
+}
+.Q
+{
+    float: right;
+    margin-top: -7.8%;
+    margin-right: 23.5%;
+}
+.p7
+{
+    float: right;
+    position: relative;
+    right: -4.5%;
+    margin-top: -7%;
+    margin-right: 12%;
+}
+.h7
+{
+    float: right;
+    position: relative;
+    right: 12%;
+    margin-top: -8%;
+    margin-right: 4%;
+}
+.hov:hover
+{
+    color: aquamarine;
+    cursor: pointer;
+}
